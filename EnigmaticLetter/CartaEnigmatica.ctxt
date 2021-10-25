@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CartaEnigmatica
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=opLogica
+comment2.target=void\ selecionouOpCorreta(int)
+comment3.params=
+comment3.target=void\ imprimirOpcoes()
+comment4.params=nomeUsuario
+comment4.target=int\ contagemVogais(java.lang.String)
+comment5.params=frase
+comment5.target=boolean\ validarNome(java.lang.String)
+comment6.params=fraseCompleta
+comment6.target=java.lang.String\ criarEnigma(java.lang.String)
+numComments=7
