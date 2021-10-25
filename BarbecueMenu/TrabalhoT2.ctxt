@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TrabalhoT2
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ TrabalhoT2\ aqui.\r\n\r\n\ @author\ (seu\ nome)\r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=num
+comment10.target=int\ verificarOpChurras(int)
+comment2.params=numPrendaCarn\ numPeaoCarn\ opChurras
+comment2.target=int\ getQuantSalsichao(int,\ int,\ int)
+comment3.params=numPrendaCarn\ numPeaoCarn\ opChurras
+comment3.target=int\ getQuantCostela(int,\ int,\ int)
+comment4.params=numPrendaCarn\ numPeaoCarn\ opChurras
+comment4.target=int\ getQuantPicanha(int,\ int,\ int)
+comment5.params=numPrendaCarn\ numPeaoCarn\ numPrendaVeg\ numPeaoVeg\ opChurras
+comment5.target=int\ getQuantPaoAlho(int,\ int,\ int,\ int,\ int)
+comment6.params=numPrendaCarn\ numPeaoCarn\ numPrendaVeg\ numPeaoVeg\ opChurras
+comment6.target=int\ getQuantQueijo(int,\ int,\ int,\ int,\ int)
+comment7.params=numPrendaVeg\ numPeaoVeg
+comment7.target=int\ getQuantXixo(int,\ int)
+comment8.params=quantTotalPrenda\ quantTotalPeao
+comment8.target=int\ getQuantErvaMate(int,\ int)
+comment9.params=num
+comment9.target=int\ verificarQuantidade(int)
+numComments=11
